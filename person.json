@@ -1,0 +1,10 @@
+{   
+    "person": 
+    {
+        "name": "Zara",
+        "score": 36,
+        "start_date": "21 Januari 2016",
+        "friends": ["Mika", "Josef", "Maria", "Sumail", "Lotte"],
+        "qualified": true 
+    }
+}
